@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-m02asg.salamcuanwin.cfd/sitemap.xml
